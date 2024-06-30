@@ -6,7 +6,7 @@ function App() {
 			<main className='main-container'>
 				<section className='header'>
 					<img className='header-img' src='./images/image-omelette.jpeg' alt='Omelette Image'/>
-					<p className='header-text'> Simple Omelette Recipe </p>
+					<h1 className='header-text'> Simple Omelette Recipe </h1>
 					<p className='header-text-intro'>
 						An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked to perfection,
 						optionally filled with your choice of cheese, vegetables, or meats.

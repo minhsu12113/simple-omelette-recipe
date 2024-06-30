@@ -48,10 +48,12 @@ h2 {
 
 .header-text {
 	padding: 1rem;
+	padding-left: 2rem;
 	padding-top: 0rem;
 	text-align: start;
 	font-size: 2rem;
 	font-family: headerFont;
+	
 }
 hr.solid {
 	border-top: 2px solid hsl(14, 45%, 36%);
@@ -228,7 +230,7 @@ hr.solid {
 	padding: 1rem;
 }
 
-@media only screen and (max-width: 672px) {
+@media only screen and (max-width: 650px) {
 	.header-img {
 		object-fit: fill;
 		padding: 0;
