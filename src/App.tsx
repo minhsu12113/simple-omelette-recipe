@@ -111,7 +111,7 @@ function App() {
 					</a>
 					. Coded by{' '}
 					<a target='_blank' href='https://www.linkedin.com/in/minh-su-5a5852241/'>
-						Justin
+					MinhSu (Justin)
 					</a>
 					.
 				</div>
